@@ -1,4 +1,5 @@
 # STRING TO NUMBERS CALCULATOR KATA
+https://kata-log.rocks/string-calculator-kata
 
 This is a tool to extract numbers from a given strings
 
